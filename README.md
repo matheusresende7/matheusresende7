@@ -1,16 +1,43 @@
-### Hi there 👋
+# Hi, I'm Matheus!!!
 
-<!--
-**matheusresende7/matheusresende7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/matheusresende7/">
+  <img
+    src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-256.png"
+    width="30"
+    height="30"
+  />
+</a> 
 
-Here are some ideas to get you started:
+<a href="https://github.com/matheusresende7">
+  <img
+    src="https://cdn4.iconfinder.com/data/icons/liu-square-blac/60/github-square-social-media-256.png"
+    width="30"
+    height="30"
+  />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+#### - Software Developer
+#### - MBA in Quality Management and Industrial Productivity
+#### - Mechanical Engineer
+## Software Skills
+
+* Flutter - Dart - GetX
+* Mobile - Android - Web - Desktop
+* TDD - Clean Archtecture - Clean Code
+* Tests: Unit - Widget - Integration - End to End
+* Pipeline CI/CD - Github Actions
+* MVC
+* API - Postman - GraphQl
+* Firebase - SQLite - CRUD
+* Frontend - Html - Css - Bootstrap
+* UI & UX Design - Figma - Canva
+* Trello - Jira
+* Scrum - Kanban
+* Git - Github
+* Play Store - Firebase Hosting
+
+## Languages and Tools:
+[![Hellenmas GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusresende7&count_private=true&show_icons=true)](https://github.com/matheusresende7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusresende7&layout=compact)](https://github.com/hellenmas/github-readme-stats)
+

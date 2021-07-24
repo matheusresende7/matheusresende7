@@ -25,7 +25,7 @@
 * Flutter - Dart - GetX
 * Mobile - Android - Web - Desktop
 * Clean Archtecture - Clean Code
-* Tests: Widget
+* Tests: Unit - Widget
 * Pipeline CI/CD - Github Actions
 * MVC
 * API - Postman

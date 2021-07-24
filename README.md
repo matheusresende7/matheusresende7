@@ -24,11 +24,11 @@
 
 * Flutter - Dart - GetX
 * Mobile - Android - Web - Desktop
-* Clean Archtecture - Clean Code
-* Tests: Unit - Widget
+* TDD - Clean Archtecture - Clean Code
+* Tests: Unit - Widget - Integration
 * Pipeline CI/CD - Github Actions
 * MVC
-* API - Postman
+* API - Postman - GraphQL
 * Firebase - SQLite - CRUD
 * Frontend - Html - Css - Bootstrap
 * UI & UX Design - Figma - Canva

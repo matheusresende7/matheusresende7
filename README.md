@@ -30,7 +30,7 @@
 * MVC
 * API - Postman - GraphQL
 * Firebase - SQLite - CRUD
-* Frontend - Html - Css - Bootstrap
+* Frontend - Html - Css - Bootstrap - WordPress
 * UI & UX Design - Figma - Canva
 * Trello - Jira
 * Scrum - Kanban

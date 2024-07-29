@@ -12,8 +12,6 @@ I'm currently focused on the following areas:
 - 🔄 Process Automation
 - 📊 Business Intelligence
 
-<br>
-
 And using mainly the technologies below: <br><br>
 <a title="Python"><img height="60" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></a> &nbsp;
 <a title="R"><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png"></a> &nbsp;

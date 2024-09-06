@@ -14,7 +14,6 @@ I'm currently focused on the following areas:
 
 And using mainly the technologies below: <br><br>
 <a title="Python"><img height="60" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"></a> &nbsp;
-<a title="R"><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png"></a> &nbsp;
 <a title="SQL"><img height="60" src="https://cdn-icons-png.flaticon.com/512/29/29165.png"></a> &nbsp;
 <a title="Power Automate"><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Microsoft_Power_Automate.svg/2048px-Microsoft_Power_Automate.svg.png"></a> &nbsp;
 <a title="Power BI"><img height="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png"></a> &nbsp;
